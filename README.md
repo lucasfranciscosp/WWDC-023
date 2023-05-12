@@ -6,7 +6,10 @@ Bit's World is my project for WWDC-023.
 It's a game that teaches binary numbers through games and stories for kids. 
 
 
-[![image](https://img.youtube.com/vi/aqdc0QZx-lU/0.jpg)](https://www.youtube.com/watch?v=aqdc0QZx-lU)
+You can watch the gameplay clicking in this bit:
 
-
-![primeiratela](https://github.com/lucasfranciscosp/WWDC-023/assets/87513778/9947e120-da0e-4ae3-a04a-fde826e20684)
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=aqdc0QZx-lU">
+         <img src="https://img.youtube.com/vi/aqdc0QZx-lU/0.jpg" style="width:50%;">
+      </a>
+</div>
